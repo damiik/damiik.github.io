@@ -212,7 +212,7 @@ function update(msg, state$$1) {
   }
 }
 const title = (() => {
-  const xs = Object(_fable_fable_library_2_4_16_List_js__WEBPACK_IMPORTED_MODULE_4__["ofArray"])([Object(_fable_Feliz_0_68_10_Interop_fs__WEBPACK_IMPORTED_MODULE_3__["mkAttr"])("className", "title"), Object(_fable_Feliz_0_68_10_Interop_fs__WEBPACK_IMPORTED_MODULE_3__["mkAttr"])("children", "Dev To-Do App 2")]);
+  const xs = Object(_fable_fable_library_2_4_16_List_js__WEBPACK_IMPORTED_MODULE_4__["ofArray"])([Object(_fable_Feliz_0_68_10_Interop_fs__WEBPACK_IMPORTED_MODULE_3__["mkAttr"])("className", "title"), Object(_fable_Feliz_0_68_10_Interop_fs__WEBPACK_IMPORTED_MODULE_3__["mkAttr"])("children", "Dev To-Do App 2.75")]);
   return Object(_fable_Feliz_0_68_10_Interop_fs__WEBPACK_IMPORTED_MODULE_3__["reactElement"])("p", Object(_fable_fable_library_2_4_16_Util_js__WEBPACK_IMPORTED_MODULE_5__["createObj"])(xs, 0));
 })();
 function newTodoInput(currentNewTodo, dispatch) {
